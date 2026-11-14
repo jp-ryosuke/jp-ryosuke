@@ -1,8 +1,19 @@
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jp-ryosuke&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img
+    alt="Top Languages"
+    height="150px"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=jp-ryosuke&layout=compact&theme=onedark"
+  />
+  <img
+    alt="GitHub Stats"
+    height="150px"
+    src="https://github-stats-extended.vercel.app/api?username=jp-ryosuke&show_icons=true&theme=onedark"
+  />
+</p>
 
-## Top Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-ryosuke&layout=compact&theme=tokyonight)
-
-## Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jp-ryosuke&theme=tokyo-night)](https://github.com/jp-ryosuke)
+<p align="left">
+  <img
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=jp-ryosuke&theme=onedark"
+  />
+</p>
